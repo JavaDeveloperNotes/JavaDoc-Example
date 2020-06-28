@@ -15,8 +15,8 @@ public class MySimpleString {
      * @return The total length of the name and address.
      */
     public int getLength(String name, String address){
-        int length = name.length() + address.length();
-        return length;
+        int mylength = name.length() + address.length();
+        return mylength;
     }
 
     /**
