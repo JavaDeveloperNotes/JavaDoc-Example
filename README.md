@@ -4,7 +4,7 @@
 1. [Step-by-step of creating a simple JavaDoc in Intellij Idea](https://youtu.be/fAQB556HtiI)
 
 #### Sample
-https://javadevelopernotes.github.io/JavaDoc-Sample
+1. https://javadevelopernotes.github.io/JavaDoc-Sample
 
 #### References
 1. https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html
